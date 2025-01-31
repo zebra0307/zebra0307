@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zebra0307
+- 👋 Hi, I’m SATYENDRA YADAV
 - 👀 I’m interested in AI&ML, web design, and competitive programming 
 - 🌱 I’m currently learning web development with Angela Yu
 -💞️ I’m looking to collaborate on:
