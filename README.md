@@ -3,10 +3,10 @@
 
 Email Me 👉 ✉️ **ysatyendra0307@gmail.com** For Collaboration/Project or Anything Else. '🕷️🦋
 
--🔍 Learning RUST🦀, doing DSA and exploring Backend Development (web2 and web3)
--🌐 Exploring the world of Web3 and looking for guidance
--👥 Open to collaborations
--😄 Pronouns: He/Him
+-🔍 Learning RUST🦀, doing DSA and exploring Backend Development (web2 and web3)<br>
+-🌐 Exploring the world of Web3 and looking for guidance<br>
+-👥 Open to collaborations<br>
+-😄 Pronouns: He/Him<br>
   
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/satyendra-yadav-8b0140323/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/rammsey_rs) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ysatyendra0307@gmail.com) 
